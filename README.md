@@ -6,9 +6,8 @@
 * install dotfiles
 
 ## Run
-``
 	git clone https://github.com/davidtrautmann/devEnvironment.git && devEnvironment/devEnvironment.sh && rm -rf devEnvironment
-``
+
 
 ## Contribution
 [Hacker's Guide to Setting up Your Mac](http://lapwinglabs.com/blog/hacker-guide-to-setting-up-your-mac)
