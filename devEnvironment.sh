@@ -39,6 +39,7 @@ misc=(
 	node
 	python
 	rename
+	tmux
 	trash
 	tree
 	zsh
