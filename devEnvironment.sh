@@ -35,6 +35,7 @@ misc=(
 	ffmpeg
 	git
 	hub
+	mosh
 	node
 	python
 	rename
