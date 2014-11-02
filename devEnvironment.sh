@@ -65,9 +65,10 @@ apps=(
 	alfred
 	appcleaner
 	atom
+	backblaze
 	betterzip
 	carbon-copy-cloner
-	crashplan
+	doxie
 	dropbox
 	fantastical
 	geektool
