@@ -35,7 +35,6 @@ misc=(
 	ffmpeg
 	git
 	hub
-	mosh
 	node
 	python
 	rename
@@ -80,7 +79,6 @@ apps=(
 	mailbox
 	moneymoney
 	nvalt
-	onepassword
 	qlcolorcode
 	qlmarkdown
 	qlprettypatch
@@ -89,7 +87,6 @@ apps=(
 	spotify
 	sublime-text3
 	tower
-	transmit
 	vagrant
 	virtualbox
 	vlc
