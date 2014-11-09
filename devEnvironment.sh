@@ -102,16 +102,6 @@ brew cask alfred link
 
 
 ########################################################
-# Mackup
-# restore settings from backup
-########################################################
-
-# install mackup and restore settings
-brew install mackup
-mackup restore
-
-
-########################################################
 # Dotfiles
 # fetch latest dotfiles from github
 ########################################################
