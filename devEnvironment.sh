@@ -45,8 +45,8 @@ misc=(
 )
 brew install ${misc[@]}
 
-# install rvm
-\curl -sSL https://get.rvm.io | bash -s stable
+# install rvm including latest ruby and rails
+\curl -sSL https://get.rvm.io | bash -s stable --ruby --rails
 
 
 ########################################################
