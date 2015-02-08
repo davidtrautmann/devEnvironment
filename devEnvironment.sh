@@ -66,6 +66,7 @@ apps=(
 	atom
 	backblaze
 	betterzip
+	boot2docker
 	carbon-copy-cloner
 	doxie
 	dropbox
@@ -87,7 +88,6 @@ apps=(
 	spotify
 	sublime-text3
 	tower
-	vagrant
 	virtualbox
 	vlc
 	ynab
